@@ -34,6 +34,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: platform
-  system: artist-engagement-portal
-  dependsOn: ['resource:artists-db']
   apiConsumedBy: ['component:www-artist']
